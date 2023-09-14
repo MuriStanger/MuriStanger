@@ -1,20 +1,14 @@
 # Hello, folks! 👋
 
-I'm Josias, Luiza's father, ⚽Flamengo fan, <img src="https://github.com/josias-soares/josias-soares/blob/main/img/pistol.png?raw=true" width="20">Sports shooter, 🎮gamer, 🎣fisherman and 👨🏽‍💻creating bugs for over 10 years, i started  in desktop development and went to mobile where i decided to stay, always looking for new things.
-
-I am currently a mobile developer at [Zallpy](https://zallpy.com/), performing the role of Android Tech Lead at [Unicred](https://unicred.com.br/)
+I'm Muriel
 
 
-🔥 Special Ability ⚡⚡ 🍺😎  Craft Brewer 😎🍺
 
-
-You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:josias.mota.soares@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josias-mota-soares/)
+You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:murielzanellato@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muriel-stanger-zanellato/)
 
 
 ## 😍 My Personal Project
-[OneZabbix](https://play.google.com/store/apps/details?id=br.com.mahhaus.onezabbix&hl=en&gl=US)
 
-Application developed in [Flutter](https://flutter.dev/) to manage Zabbix servers.
 
 
 ## 🔨 Projects

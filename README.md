@@ -2,7 +2,7 @@
 
 Hi, I'm Muriel. Palmeiras fan💚. I've been finding bugs🕵️ in web applications, APIs, and mobile applications for over 3 years. 
 
-I am currently a test automation student with Cypress and Selenium Webdriver with Python👨🏽‍💻.
+I am a test automation student using Cypress and Selenium Webdriver with Python👨🏽‍💻.
 
 
 You can find me: [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:murielzanellato@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muriel-stanger-zanellato/)
